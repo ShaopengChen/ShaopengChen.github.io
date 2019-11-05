@@ -3,15 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: 我的个人主页
+name: Shaopeng's Home page
 
 # Short bio or description (displayed in the header)
 description: CGCL-HUST
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/ShaopengChen/bolg/master/images/blog_logo.jpg
+avatar: https://raw.githubusercontent.com/ShaopengChen/ShaopengChen.github.io/master/images/blog_logo.jpg
 
-#
 # Flags below are optional
 #
 
@@ -46,7 +45,7 @@ url: https://shaopengchen.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/shaopengchen.github.io"
+baseurl: "/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
